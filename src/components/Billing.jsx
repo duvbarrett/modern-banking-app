@@ -17,9 +17,7 @@ const Billing = () => (
         invoicing
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Elit enim sed massa etiam. Mauris eu adipiscing ultrices ametodio
-        aenean neque. Fusce ipsum orci rhoncus aliporttitor integer platea
-        placerat.
+        EGet the most out of your account with secure online services like Bill Pay, Send Money with Zelle, online statements, e-mail alerts and more.
       </p>
 
       <div className="flex flex-row flex-wrap sm:mt-10 mt-6">
